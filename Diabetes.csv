@@ -1,0 +1,996 @@
+glucose,bloodpressure,diabetes
+35,82,diabetic
+35,82,diabetic
+35,82,diabetic
+35,82,diabetic
+35,83,diabetic
+35,83,diabetic
+35,88,diabetic
+35,88,diabetic
+35,90,diabetic
+35,90,diabetic
+35,90,diabetic
+40,75,diabetic
+40,77,diabetic
+40,78,diabetic
+40,78,diabetic
+40,78,diabetic
+40,78,diabetic
+40,78,diabetic
+40,80,diabetic
+40,80,diabetic
+40,80,diabetic
+40,82,diabetic
+40,82,diabetic
+40,82,diabetic
+40,82,diabetic
+40,82,diabetic
+40,82,diabetic
+40,82,diabetic
+40,82,diabetic
+40,83,diabetic
+40,83,diabetic
+40,83,diabetic
+40,83,diabetic
+40,83,diabetic
+40,83,diabetic
+40,83,diabetic
+40,83,diabetic
+40,83,diabetic
+40,83,diabetic
+40,83,diabetic
+40,83,diabetic
+40,83,diabetic
+40,83,diabetic
+40,83,diabetic
+40,85,diabetic
+40,85,diabetic
+40,85,diabetic
+40,85,diabetic
+40,85,diabetic
+40,85,diabetic
+40,85,diabetic
+40,85,diabetic
+40,85,diabetic
+40,85,diabetic
+40,85,diabetic
+40,85,diabetic
+40,85,diabetic
+40,85,diabetic
+40,85,diabetic
+40,85,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,87,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,88,diabetic
+40,90,diabetic
+40,90,diabetic
+40,90,diabetic
+40,90,diabetic
+40,90,diabetic
+40,90,diabetic
+40,90,diabetic
+40,90,diabetic
+40,90,diabetic
+40,90,diabetic
+40,90,diabetic
+40,90,diabetic
+40,90,diabetic
+40,90,diabetic
+40,90,diabetic
+40,90,diabetic
+40,90,diabetic
+40,92,diabetic
+40,92,diabetic
+40,92,diabetic
+40,92,diabetic
+40,92,diabetic
+40,92,diabetic
+40,92,diabetic
+40,92,diabetic
+40,92,diabetic
+40,92,diabetic
+40,92,diabetic
+40,92,diabetic
+40,92,diabetic
+40,93,diabetic
+40,93,diabetic
+40,93,diabetic
+40,93,diabetic
+40,93,diabetic
+40,93,diabetic
+40,93,diabetic
+40,93,diabetic
+40,93,diabetic
+40,93,diabetic
+40,93,diabetic
+40,93,diabetic
+40,95,diabetic
+40,95,diabetic
+40,95,diabetic
+40,95,diabetic
+40,95,diabetic
+40,97,diabetic
+40,98,diabetic
+40,100,diabetic
+40,100,diabetic
+45,73,diabetic
+45,73,diabetic
+45,77,diabetic
+45,77,diabetic
+45,77,diabetic
+45,77,diabetic
+45,78,diabetic
+45,78,diabetic
+45,78,diabetic
+45,78,diabetic
+45,78,diabetic
+45,78,diabetic
+45,78,diabetic
+45,80,diabetic
+45,80,diabetic
+45,80,diabetic
+45,80,diabetic
+45,80,diabetic
+45,80,diabetic
+45,80,diabetic
+45,80,diabetic
+45,80,diabetic
+45,80,diabetic
+45,80,diabetic
+45,80,diabetic
+45,80,diabetic
+45,80,diabetic
+45,80,diabetic
+45,80,diabetic
+45,80,diabetic
+45,80,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,82,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,83,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,85,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,87,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,88,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,90,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,92,diabetic
+45,93,diabetic
+45,93,diabetic
+45,93,diabetic
+45,93,diabetic
+45,93,diabetic
+45,93,diabetic
+45,93,diabetic
+45,93,diabetic
+45,93,diabetic
+45,93,diabetic
+45,95,diabetic
+45,95,diabetic
+45,95,diabetic
+45,95,diabetic
+45,95,diabetic
+45,97,diabetic
+45,97,diabetic
+45,97,diabetic
+45,97,diabetic
+45,97,diabetic
+45,98,diabetic
+50,75,diabetic
+50,77,diabetic
+50,78,diabetic
+50,78,diabetic
+50,78,diabetic
+50,80,diabetic
+50,80,diabetic
+50,80,diabetic
+50,80,diabetic
+50,80,diabetic
+50,82,diabetic
+50,82,diabetic
+50,82,diabetic
+50,82,diabetic
+50,83,diabetic
+50,83,diabetic
+50,83,diabetic
+50,83,diabetic
+50,83,diabetic
+50,83,diabetic
+50,83,diabetic
+50,83,diabetic
+50,83,diabetic
+50,83,diabetic
+50,83,diabetic
+50,83,diabetic
+50,83,diabetic
+50,83,diabetic
+50,85,diabetic
+50,85,diabetic
+50,85,diabetic
+50,85,diabetic
+50,85,diabetic
+50,85,diabetic
+50,85,diabetic
+50,85,diabetic
+50,85,diabetic
+50,85,diabetic
+50,85,diabetic
+50,85,diabetic
+50,85,diabetic
+50,85,diabetic
+50,85,diabetic
+50,87,diabetic
+50,87,diabetic
+50,87,diabetic
+50,87,diabetic
+50,87,diabetic
+50,88,diabetic
+50,88,diabetic
+50,88,diabetic
+50,88,diabetic
+50,88,diabetic
+50,88,diabetic
+50,88,diabetic
+50,88,diabetic
+50,88,diabetic
+50,88,diabetic
+50,88,diabetic
+50,90,diabetic
+50,90,diabetic
+50,90,diabetic
+50,90,diabetic
+50,90,diabetic
+50,90,diabetic
+50,90,diabetic
+50,90,diabetic
+50,90,diabetic
+50,90,diabetic
+50,90,diabetic
+50,92,diabetic
+50,92,diabetic
+50,92,diabetic
+50,92,diabetic
+50,92,diabetic
+50,92,diabetic
+50,93,diabetic
+50,93,diabetic
+50,95,diabetic
+50,95,diabetic
+50,95,diabetic
+50,95,diabetic
+55,87,diabetic
+55,93,diabetic
+20,70,not diabetic
+20,73,not diabetic
+20,80,not diabetic
+25,67,not diabetic
+25,70,not diabetic
+25,72,not diabetic
+25,73,not diabetic
+25,73,not diabetic
+25,73,not diabetic
+25,73,not diabetic
+25,82,not diabetic
+25,83,not diabetic
+25,88,not diabetic
+30,63,not diabetic
+30,68,not diabetic
+30,70,not diabetic
+30,70,not diabetic
+30,72,not diabetic
+30,73,not diabetic
+30,73,not diabetic
+30,73,not diabetic
+30,75,not diabetic
+30,75,not diabetic
+30,75,not diabetic
+30,75,not diabetic
+30,77,not diabetic
+30,77,not diabetic
+30,78,not diabetic
+30,78,not diabetic
+30,78,not diabetic
+30,78,not diabetic
+30,78,not diabetic
+30,78,not diabetic
+30,80,not diabetic
+30,80,not diabetic
+30,80,not diabetic
+30,82,not diabetic
+30,82,not diabetic
+30,83,not diabetic
+30,83,not diabetic
+35,62,not diabetic
+35,62,not diabetic
+35,62,not diabetic
+35,63,not diabetic
+35,65,not diabetic
+35,65,not diabetic
+35,67,not diabetic
+35,67,not diabetic
+35,67,not diabetic
+35,68,not diabetic
+35,68,not diabetic
+35,68,not diabetic
+35,68,not diabetic
+35,68,not diabetic
+35,70,not diabetic
+35,70,not diabetic
+35,70,not diabetic
+35,70,not diabetic
+35,70,not diabetic
+35,70,not diabetic
+35,70,not diabetic
+35,72,not diabetic
+35,72,not diabetic
+35,72,not diabetic
+35,73,not diabetic
+35,73,not diabetic
+35,73,not diabetic
+35,73,not diabetic
+35,73,not diabetic
+35,73,not diabetic
+35,75,not diabetic
+35,75,not diabetic
+35,75,not diabetic
+35,77,not diabetic
+35,77,not diabetic
+35,77,not diabetic
+35,77,not diabetic
+35,77,not diabetic
+35,77,not diabetic
+35,77,not diabetic
+35,77,not diabetic
+35,77,not diabetic
+35,78,not diabetic
+35,78,not diabetic
+35,78,not diabetic
+35,78,not diabetic
+35,80,not diabetic
+35,80,not diabetic
+35,80,not diabetic
+35,80,not diabetic
+35,80,not diabetic
+35,82,not diabetic
+35,83,not diabetic
+35,83,not diabetic
+35,85,not diabetic
+35,87,not diabetic
+35,87,not diabetic
+40,60,not diabetic
+40,60,not diabetic
+40,60,not diabetic
+40,62,not diabetic
+40,63,not diabetic
+40,63,not diabetic
+40,63,not diabetic
+40,63,not diabetic
+40,63,not diabetic
+40,65,not diabetic
+40,65,not diabetic
+40,65,not diabetic
+40,65,not diabetic
+40,65,not diabetic
+40,65,not diabetic
+40,65,not diabetic
+40,65,not diabetic
+40,65,not diabetic
+40,65,not diabetic
+40,65,not diabetic
+40,67,not diabetic
+40,67,not diabetic
+40,67,not diabetic
+40,67,not diabetic
+40,67,not diabetic
+40,67,not diabetic
+40,67,not diabetic
+40,67,not diabetic
+40,67,not diabetic
+40,68,not diabetic
+40,68,not diabetic
+40,68,not diabetic
+40,68,not diabetic
+40,68,not diabetic
+40,68,not diabetic
+40,70,not diabetic
+40,70,not diabetic
+40,70,not diabetic
+40,70,not diabetic
+40,70,not diabetic
+40,70,not diabetic
+40,70,not diabetic
+40,70,not diabetic
+40,70,not diabetic
+40,70,not diabetic
+40,70,not diabetic
+40,70,not diabetic
+40,70,not diabetic
+40,72,not diabetic
+40,72,not diabetic
+40,72,not diabetic
+40,72,not diabetic
+40,72,not diabetic
+40,72,not diabetic
+40,72,not diabetic
+40,72,not diabetic
+40,72,not diabetic
+40,72,not diabetic
+40,72,not diabetic
+40,72,not diabetic
+40,72,not diabetic
+40,72,not diabetic
+40,73,not diabetic
+40,73,not diabetic
+40,73,not diabetic
+40,73,not diabetic
+40,73,not diabetic
+40,73,not diabetic
+40,73,not diabetic
+40,73,not diabetic
+40,73,not diabetic
+40,73,not diabetic
+40,75,not diabetic
+40,75,not diabetic
+40,75,not diabetic
+40,75,not diabetic
+40,75,not diabetic
+40,75,not diabetic
+40,75,not diabetic
+40,75,not diabetic
+40,75,not diabetic
+40,75,not diabetic
+40,75,not diabetic
+40,75,not diabetic
+40,75,not diabetic
+40,75,not diabetic
+40,77,not diabetic
+40,77,not diabetic
+40,77,not diabetic
+40,77,not diabetic
+40,77,not diabetic
+40,78,not diabetic
+40,78,not diabetic
+40,78,not diabetic
+40,78,not diabetic
+40,80,not diabetic
+40,80,not diabetic
+40,80,not diabetic
+40,80,not diabetic
+40,80,not diabetic
+40,82,not diabetic
+40,82,not diabetic
+40,82,not diabetic
+40,82,not diabetic
+40,82,not diabetic
+40,83,not diabetic
+40,83,not diabetic
+40,85,not diabetic
+40,85,not diabetic
+40,87,not diabetic
+45,50,not diabetic
+45,57,not diabetic
+45,57,not diabetic
+45,57,not diabetic
+45,58,not diabetic
+45,58,not diabetic
+45,60,not diabetic
+45,60,not diabetic
+45,62,not diabetic
+45,63,not diabetic
+45,63,not diabetic
+45,63,not diabetic
+45,65,not diabetic
+45,65,not diabetic
+45,67,not diabetic
+45,67,not diabetic
+45,67,not diabetic
+45,67,not diabetic
+45,67,not diabetic
+45,67,not diabetic
+45,67,not diabetic
+45,67,not diabetic
+45,67,not diabetic
+45,67,not diabetic
+45,67,not diabetic
+45,68,not diabetic
+45,68,not diabetic
+45,68,not diabetic
+45,68,not diabetic
+45,68,not diabetic
+45,68,not diabetic
+45,68,not diabetic
+45,68,not diabetic
+45,68,not diabetic
+45,68,not diabetic
+45,68,not diabetic
+45,70,not diabetic
+45,70,not diabetic
+45,70,not diabetic
+45,70,not diabetic
+45,70,not diabetic
+45,70,not diabetic
+45,70,not diabetic
+45,70,not diabetic
+45,70,not diabetic
+45,72,not diabetic
+45,72,not diabetic
+45,72,not diabetic
+45,72,not diabetic
+45,72,not diabetic
+45,72,not diabetic
+45,72,not diabetic
+45,72,not diabetic
+45,72,not diabetic
+45,72,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,73,not diabetic
+45,75,not diabetic
+45,75,not diabetic
+45,75,not diabetic
+45,75,not diabetic
+45,75,not diabetic
+45,75,not diabetic
+45,75,not diabetic
+45,75,not diabetic
+45,75,not diabetic
+45,75,not diabetic
+45,75,not diabetic
+45,75,not diabetic
+45,75,not diabetic
+45,75,not diabetic
+45,77,not diabetic
+45,77,not diabetic
+45,77,not diabetic
+45,77,not diabetic
+45,77,not diabetic
+45,77,not diabetic
+45,77,not diabetic
+45,77,not diabetic
+45,77,not diabetic
+45,77,not diabetic
+45,78,not diabetic
+45,78,not diabetic
+45,78,not diabetic
+45,78,not diabetic
+45,78,not diabetic
+45,78,not diabetic
+45,78,not diabetic
+45,78,not diabetic
+45,78,not diabetic
+45,80,not diabetic
+45,82,not diabetic
+45,82,not diabetic
+45,82,not diabetic
+45,82,not diabetic
+45,83,not diabetic
+45,85,not diabetic
+45,87,not diabetic
+45,88,not diabetic
+45,88,not diabetic
+50,52,not diabetic
+50,58,not diabetic
+50,58,not diabetic
+50,60,not diabetic
+50,60,not diabetic
+50,62,not diabetic
+50,62,not diabetic
+50,63,not diabetic
+50,63,not diabetic
+50,63,not diabetic
+50,65,not diabetic
+50,65,not diabetic
+50,65,not diabetic
+50,65,not diabetic
+50,65,not diabetic
+50,65,not diabetic
+50,65,not diabetic
+50,65,not diabetic
+50,65,not diabetic
+50,67,not diabetic
+50,67,not diabetic
+50,67,not diabetic
+50,67,not diabetic
+50,67,not diabetic
+50,67,not diabetic
+50,67,not diabetic
+50,67,not diabetic
+50,67,not diabetic
+50,67,not diabetic
+50,68,not diabetic
+50,68,not diabetic
+50,68,not diabetic
+50,68,not diabetic
+50,68,not diabetic
+50,68,not diabetic
+50,68,not diabetic
+50,68,not diabetic
+50,70,not diabetic
+50,70,not diabetic
+50,70,not diabetic
+50,70,not diabetic
+50,70,not diabetic
+50,70,not diabetic
+50,72,not diabetic
+50,72,not diabetic
+50,72,not diabetic
+50,72,not diabetic
+50,72,not diabetic
+50,73,not diabetic
+50,73,not diabetic
+50,73,not diabetic
+50,73,not diabetic
+50,73,not diabetic
+50,73,not diabetic
+50,73,not diabetic
+50,75,not diabetic
+50,75,not diabetic
+50,75,not diabetic
+50,75,not diabetic
+50,75,not diabetic
+50,75,not diabetic
+50,77,not diabetic
+50,77,not diabetic
+50,77,not diabetic
+50,77,not diabetic
+50,77,not diabetic
+50,77,not diabetic
+50,78,not diabetic
+50,78,not diabetic
+50,78,not diabetic
+50,78,not diabetic
+50,78,not diabetic
+50,78,not diabetic
+50,80,not diabetic
+50,80,not diabetic
+50,80,not diabetic
+50,80,not diabetic
+50,80,not diabetic
+50,83,not diabetic
+50,85,not diabetic
+55,57,not diabetic
+55,60,not diabetic
+55,60,not diabetic
+55,60,not diabetic
+55,62,not diabetic
+55,62,not diabetic
+55,63,not diabetic
+55,63,not diabetic
+55,63,not diabetic
+55,65,not diabetic
+55,65,not diabetic
+55,65,not diabetic
+55,65,not diabetic
+55,65,not diabetic
+55,67,not diabetic
+55,67,not diabetic
+55,67,not diabetic
+55,67,not diabetic
+55,67,not diabetic
+55,67,not diabetic
+55,68,not diabetic
+55,68,not diabetic
+55,68,not diabetic
+55,68,not diabetic
+55,68,not diabetic
+55,68,not diabetic
+55,68,not diabetic
+55,68,not diabetic
+55,68,not diabetic
+55,68,not diabetic
+55,68,not diabetic
+55,68,not diabetic
+55,70,not diabetic
+55,70,not diabetic
+55,70,not diabetic
+55,70,not diabetic
+55,70,not diabetic
+55,72,not diabetic
+55,72,not diabetic
+55,72,not diabetic
+55,72,not diabetic
+55,72,not diabetic
+55,72,not diabetic
+55,73,not diabetic
+55,73,not diabetic
+55,73,not diabetic
+55,73,not diabetic
+55,73,not diabetic
+55,73,not diabetic
+55,73,not diabetic
+55,73,not diabetic
+55,75,not diabetic
+55,75,not diabetic
+55,75,not diabetic
+55,75,not diabetic
+55,75,not diabetic
+55,75,not diabetic
+55,77,not diabetic
+55,77,not diabetic
+55,77,not diabetic
+55,78,not diabetic
+55,78,not diabetic
+60,60,not diabetic
+60,62,not diabetic
+60,63,not diabetic
+60,63,not diabetic
+60,63,not diabetic
+60,65,not diabetic
+60,67,not diabetic
+60,67,not diabetic
+60,67,not diabetic
+60,67,not diabetic
+60,68,not diabetic
+60,68,not diabetic
+60,68,not diabetic
+60,68,not diabetic
+60,68,not diabetic
+60,70,not diabetic
+60,70,not diabetic
+60,75,not diabetic
+60,75,not diabetic
+60,77,not diabetic
+60,80,not diabetic
+60,85,not diabetic
+65,60,not diabetic
+65,62,not diabetic
+65,63,not diabetic
+65,65,not diabetic
+65,70,not diabetic
+65,72,not diabetic
+65,73,not diabetic
+65,73,not diabetic
+70,62,not diabetic
+70,65,not diabetic
